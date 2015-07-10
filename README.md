@@ -5,3 +5,4 @@
 An example that will cause a build failure
 
 Haha...
+http://docs.travis-ci.com/user/for-beginners/
